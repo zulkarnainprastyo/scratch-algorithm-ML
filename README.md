@@ -1,4 +1,4 @@
-# Scratch Algorithm Machine Learning
+# Scratch Algorithm Machine Learning - Pacmann Project
 
 ## Step #1 - Select Machine Learning Algorithm
 Search for algorithm references from valid sources. Examples of lecture notes/slides, papers, conferences, and books.
